@@ -1,0 +1,36 @@
+{
+  "name": "satd-patterns",
+  "version": "1.0.1",
+  "description": "Collection of patterns to identify technical debt in code comments",
+  "main": "satd-patterns.json",
+  "files": [
+    "satd-patterns.json"
+  ],
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xsultan/satd-patterns.git"
+  },
+  "keywords": [
+    "Software",
+    "comments",
+    "Technical",
+    "debt"
+  ],
+  "author": "Sultan Wehaibi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xsultan/satd-patterns/issues"
+  },
+  "homepage": "https://github.com/xsultan/satd-patterns#readme",
+
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
