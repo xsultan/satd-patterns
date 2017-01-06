@@ -30,4 +30,4 @@ console.log(satd_patterns);
 
 ## License
 
-MIT © [Sultan Wehaibi](https://github.com/xsultan/satd)
+MIT © [Sultan Wehaibi](https://github.com/xsultan)
