@@ -1,4 +1,5 @@
-# xsultan/satd-patterns [![Build Status](https://travis-ci.org/xsultan/satd-patterns.svg?branch=master)](https://travis-ci.org/xsultan/satd-patterns)
+# xsultan/satd-patterns [![Build Status](https://travis-ci.org/xsultan/satd-patterns.svg?branch=master)](https://travis-ci.org/xsultan/satd-patterns) [![Coverage Status](https://coveralls.io/repos/github/xsultan/satd-patterns/badge.svg?branch=master)](https://coveralls.io/github/xsultan/satd-patterns?branch=master) [![Build status](https://ci.appveyor.com/api/projects/status/9j2ma9u4gcd7h59x?svg=true)](https://ci.appveyor.com/project/xsultan/satd-patterns)
+
 
 > A list of patterns used to identify technical debt through source code comments.
 

@@ -1,6 +1,6 @@
 {
   "name": "satd-patterns",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collection of patterns to identify technical debt in code comments",
   "main": "satd-patterns.json",
   "files": [
