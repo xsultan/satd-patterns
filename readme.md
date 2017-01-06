@@ -16,9 +16,9 @@ $ npm install --save satd-patterns
 ```
 
 ```js
-const satd-patterns = require('satd-patterns');
+const satd_patterns = require('satd-patterns');
 
-console.log(satd-patterns);
+console.log(satd_patterns);
 //=> ['hack', 'workaround', 'fixme', ...]
 ```
 
@@ -30,4 +30,4 @@ console.log(satd-patterns);
 
 ## License
 
-MIT © [Sultan Wehaibi](https://github.com/xsultan/satd)
+MIT © [Sultan Wehaibi](https://github.com/xsultan)
